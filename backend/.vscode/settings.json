@@ -1,0 +1,6 @@
+{
+  "python.linting.pep8Enabled": true,
+  "python.linting.pylintPath": "pylint",
+"python.venvPath": "${workspaceFolder}/backend/env/bin/python3",
+"python.linting.enabled": false
+}
